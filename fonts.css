@@ -7,6 +7,10 @@ body {
   align-items: center;     
 }
 
+h1 {
+  text-align: center; 
+}
+
 h2 {
   position: absolute;
   top: 0;
@@ -15,8 +19,4 @@ h2 {
   font-family: "Copperplate", serif;
   font-size: 20px;
   color: "CornflowerBlue";
-}
-
-h1 {
-  text-align: center; 
 }

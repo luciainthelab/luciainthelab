@@ -2,24 +2,23 @@ body {
   margin: 0;
   height: 100vh; 
   display: flex;
-  flex-direction: column;  
-  justify-content: center; 
-  align-items: center;     
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   background-color: #D0F0C0;
 }
 
 h1 {
   font-size: 60px;
   text-align: center;
-  text-color: #355E3B;
-  
+  color: #355E3B;
 }
 
 h2 {
   position: absolute;
   top: 0;
   left: 0;
-  margin: 20px;  
+  margin: 20px;
   font-family: "Copperplate", serif;
   font-size: 20px;
 }

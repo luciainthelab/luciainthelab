@@ -10,7 +10,9 @@ body {
 
 h1 {
   font-size: 60px;
-  text-align: center; 
+  text-align: center;
+  text-color: #355E3B;
+  
 }
 
 h2 {

@@ -9,6 +9,7 @@ Now, I’m diving headfirst into EdTech, learning design, and the science behind
 TL;DR?
 
 I want to build tools that help people learn better without frying their brains. 
+
 Check out my portfolio *luciainthelab* to get a better idea of the projects I've been working on!
 
 When I’m not investigating how we store semantic memories or redesigning slide decks for fun, you can catch me figuring out how to finance new hobbies, drinking obscene amounts of boba, or watching the Great British Baking Show.

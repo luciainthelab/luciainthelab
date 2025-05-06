@@ -1,22 +1,22 @@
 body {
   margin: 0;
-  height: 100vh;  /* Make the body take up the full viewport height */
+  height: 100vh; 
   display: flex;
-  flex-direction: column;  /* Stack elements vertically */
-  justify-content: center; /* Vertically center the content */
-  align-items: center;     /* Horizontally center the content */
+  flex-direction: column;  
+  justify-content: center; 
+  align-items: center;     
 }
 
 h1 {
   position: absolute;
   top: 0;
   left: 0;
-  margin: 20px;  /* Adds a little space from the top-left corner */
+  margin: 20px;  
   font-family: "Copperplate", serif;
   font-size: 50px;
   color: pink;
 }
 
-.p1, .p2 {
-  text-align: center;  /* Center text inside paragraphs */
+p {
+  text-align: center; 
 }

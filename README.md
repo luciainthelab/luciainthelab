@@ -2,13 +2,13 @@
 
 *Cognitive Science major @ UCLA*
 
-I’m passionate about the intersection of education, technology, and cognitive science. I’m primarily curious as to how humans learn and how to make that learning stick. I used to think I’d help people through medicine or law, but somewhere between my psych classes and late-night Duolingo streaks (140 days strong), I realized my true interest is in learning itself. 
+I’m passionate about the intersection of cognitive science, behavioral research, and creative storytelling. I’m primarily curious as to how humans make decisions and remember, and using those insights to create engaging, meaningful experiences. I used to think I’d help people through medicine or law, but somewhere between my psych classes and late-night Duolingo streaks (140 days strong), I realized my true interest is in understanding how learning and memory actually work. 
 
-Now, I’m diving headfirst into EdTech, learning design, and the science behind memory and cognitive load. I’ve worked in research labs investigating how people remember (or forget) information, and I’m planning on further exploring how curriculum design can reduce burnout and boost long-term learning. 
+Now, I’m diving headfirst into behavioral science, narrative design, and the psychology behind memory and decision-making. I’ve worked in research labs investigating how people remember (or forget) information, and I’m planning on further exploring how storytelling and interactive media can help people think more deeply and stay imaginative. 
 
 TL;DR?
 
-I want to build tools that help people learn better without frying their brains. 
+I want to build tools that help people learn better, think clearer, and stay engaged- all without frying their brains. 
 
 Check out my portfolio *luciainthelab* to get a better idea of the projects I've been working on!
 

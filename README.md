@@ -2,7 +2,7 @@
 
 *Cognitive Science major @ UCLA*
 
-I’m passionate about the intersection of cognitive science, behavioral research, and creative storytelling. I’m primarily curious as to how humans make decisions and remember, and using those insights to create engaging, meaningful experiences. I used to think I’d help people through medicine or law, but somewhere between my psych classes and late-night Duolingo streaks (140 days strong), I realized my true interest is in understanding how learning and memory actually work. 
+I’m passionate about the intersection of cognitive science, behavioral research, and creative storytelling. I’m primarily curious as to how humans make decisions and remember, and using those insights to create engaging, meaningful experiences. Somewhere between my psych classes and late-night Duolingo streaks (140 days strong), I realized my true interest is in understanding humans and how they actually work. 
 
 Now, I’m diving headfirst into behavioral science, narrative design, and the psychology behind memory and decision-making. I’ve worked in research labs investigating how people remember (or forget) information, and I’m planning on further exploring how storytelling and interactive media can help people think more deeply and stay imaginative. 
 
